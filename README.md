@@ -11,3 +11,6 @@ Each folder has the executed notebook, an HTML export and a README with results.
 | c03/creating-cohorts-of-songs | [c03/creating-cohorts-of-songs](c03/creating-cohorts-of-songs) |
 | c03/employee-turnover-analytics | [c03/employee-turnover-analytics](c03/employee-turnover-analytics) |
 | c07/sales-forecasting | [c07/sales-forecasting](c07/sales-forecasting) |
+| c05/chatgpt-based-storytelling | [c05/chatgpt-based-storytelling](c05/chatgpt-based-storytelling) |
+| c05/virtual-project-management-consultant | [c05/virtual-project-management-consultant](c05/virtual-project-management-consultant) |
+| c06/crafting-an-ai-powered-hr-assistant-a-use-case-for-nestle-s-hr-policy-documents | [c06/crafting-an-ai-powered-hr-assistant-a-use-case-for-nestle-s-hr-policy-documents](c06/crafting-an-ai-powered-hr-assistant-a-use-case-for-nestle-s-hr-policy-documents) |

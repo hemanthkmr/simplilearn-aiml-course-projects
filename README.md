@@ -14,3 +14,6 @@ Each folder has the executed notebook, an HTML export and a README with results.
 | c05/chatgpt-based-storytelling | [c05/chatgpt-based-storytelling](c05/chatgpt-based-storytelling) |
 | c05/virtual-project-management-consultant | [c05/virtual-project-management-consultant](c05/virtual-project-management-consultant) |
 | c06/crafting-an-ai-powered-hr-assistant-a-use-case-for-nestle-s-hr-policy-documents | [c06/crafting-an-ai-powered-hr-assistant-a-use-case-for-nestle-s-hr-policy-documents](c06/crafting-an-ai-powered-hr-assistant-a-use-case-for-nestle-s-hr-policy-documents) |
+| e01/performing-facial-recognition-with-deep-learning | [e01/performing-facial-recognition-with-deep-learning](e01/performing-facial-recognition-with-deep-learning) |
+| e02/help-twitter-combat-hate-speech-using-nlp-and-machine-learning | [e02/help-twitter-combat-hate-speech-using-nlp-and-machine-learning](e02/help-twitter-combat-hate-speech-using-nlp-and-machine-learning) |
+| e02/chatbot | [e02/chatbot](e02/chatbot) |

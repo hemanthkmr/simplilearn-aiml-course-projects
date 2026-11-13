@@ -17,3 +17,4 @@ Each folder has the executed notebook, an HTML export and a README with results.
 | e01/performing-facial-recognition-with-deep-learning | [e01/performing-facial-recognition-with-deep-learning](e01/performing-facial-recognition-with-deep-learning) |
 | e02/help-twitter-combat-hate-speech-using-nlp-and-machine-learning | [e02/help-twitter-combat-hate-speech-using-nlp-and-machine-learning](e02/help-twitter-combat-hate-speech-using-nlp-and-machine-learning) |
 | e02/chatbot | [e02/chatbot](e02/chatbot) |
+| e03/autonomous-driving | [e03/autonomous-driving](e03/autonomous-driving) |
